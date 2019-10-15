@@ -17,3 +17,7 @@ Neural Network
 
 - FP & PB
 - Derivation of Gradiant computation
+
+
+
+##TO BE CONTINUED
