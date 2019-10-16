@@ -20,4 +20,10 @@ Neural Network
 
 
 
+K-Nearest Neighbor
+
+
+
 ##TO BE CONTINUED
+
+k-means
