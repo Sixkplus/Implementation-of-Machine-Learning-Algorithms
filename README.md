@@ -24,6 +24,10 @@ K-Nearest Neighbor
 
 
 
+K-means
+
+
+
 ##TO BE CONTINUED
 
-k-means
+*
