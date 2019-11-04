@@ -22,12 +22,20 @@ Neural Network
 
 K-Nearest Neighbor
 
+- Hack the CAPTCHA
+
 
 
 K-means
 
+- Image compression
 
 
-##TO BE CONTINUED
 
-*
+Dimensional reduction
+
+- Spectral clustring
+
+- PCA
+
+- LDA
