@@ -1,6 +1,6 @@
 # Implementation-of-Machine-Learning-Algorithms
 
-This repo contains my implementation of machine learning algorithms required from ML course.
+This repo contains my implementation of machine learning algorithms required by the ZJU ML course.
 
 ## Done
 
